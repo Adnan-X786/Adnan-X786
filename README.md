@@ -31,6 +31,16 @@
 
 ---
 
+## ✨ My Animated Cards
+
+<div align="center">
+
+<img src="./cards/build.svg" width="32%" />
+<img src="./cards/ai.svg" width="32%" />
+<img src="./cards/learn.svg" width="32%" />
+
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
