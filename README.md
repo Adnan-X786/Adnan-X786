@@ -3,11 +3,9 @@
 
 # Hey, I'm Adnan! 👋
 
-<img src="
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&width=600&lines=Hey%2C+I'm+Adnan!;BSC+Artificial+Intelligence+Student;Exploring+Artificial+Intelligence;Future+AI+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-" />
-"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&width=600&lines=Hey%2C+I'm+Adnan!;BSC+Artificial+Intelligence+Student;Exploring+Artificial+Intelligence;Future+AI+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)"/>
+
 
 ### 🚀 Aspiring AI Developer
 
