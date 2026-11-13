@@ -39,6 +39,15 @@
 <img src="./cards/ai.svg" width="32%" />
 <img src="./cards/learn.svg" width="32%" />
 
+
+<h2 align="center">📊 My Contribution Graph</h2>
+
+<div align="center">
+  <img src="./cards/contribution-graph.svg" width="100%" />
+</div>
+
+
+
 </div>
 
 ## 📊 GitHub Statistics
